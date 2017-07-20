@@ -40,9 +40,9 @@ int main()
 	HOfWD=105;//废物桶高度，cm
 
 	//发射源是否随机分布
-	bool IsRandom=false;
+	bool IsRandom=true;
 	//1，密度;
-	density=2.0;//g/cm3 *****
+	density=0.5;//g/cm3 *****
 	//2，测量方式
 	char DetectionType[10]={"SGS"};//SGS ISGS STGS2ER STGS2EB STGS4ER STGS4EB STGS8ER STGS8EB *****
 	//3，源高度;
