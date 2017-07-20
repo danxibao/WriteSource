@@ -1,6 +1,6 @@
 $$Drum1
-Detection:STGS4EB;
-Density:2;
+Detection:SGS;
+Density:0.5;
 ##Source1
 Radius:0;
 Angle:0;
@@ -28,8 +28,8 @@ Activity:1e+007;
 **SumA:4e+007;
 
 $$Drum2
-Detection:STGS4EB;
-Density:2;
+Detection:SGS;
+Density:0.5;
 ##Source1
 Radius:2.5;
 Angle:0;
@@ -57,8 +57,8 @@ Activity:1e+007;
 **SumA:4e+007;
 
 $$Drum3
-Detection:STGS4EB;
-Density:2;
+Detection:SGS;
+Density:0.5;
 ##Source1
 Radius:5;
 Angle:0;
@@ -86,8 +86,8 @@ Activity:1e+007;
 **SumA:4e+007;
 
 $$Drum4
-Detection:STGS4EB;
-Density:2;
+Detection:SGS;
+Density:0.5;
 ##Source1
 Radius:7.5;
 Angle:0;
@@ -115,8 +115,8 @@ Activity:1e+007;
 **SumA:4e+007;
 
 $$Drum5
-Detection:STGS4EB;
-Density:2;
+Detection:SGS;
+Density:0.5;
 ##Source1
 Radius:10;
 Angle:0;
@@ -144,8 +144,8 @@ Activity:1e+007;
 **SumA:4e+007;
 
 $$Drum6
-Detection:STGS4EB;
-Density:2;
+Detection:SGS;
+Density:0.5;
 ##Source1
 Radius:12.5;
 Angle:0;
@@ -173,8 +173,8 @@ Activity:1e+007;
 **SumA:4e+007;
 
 $$Drum7
-Detection:STGS4EB;
-Density:2;
+Detection:SGS;
+Density:0.5;
 ##Source1
 Radius:15;
 Angle:0;
@@ -202,8 +202,8 @@ Activity:1e+007;
 **SumA:4e+007;
 
 $$Drum8
-Detection:STGS4EB;
-Density:2;
+Detection:SGS;
+Density:0.5;
 ##Source1
 Radius:17.5;
 Angle:0;
@@ -231,8 +231,8 @@ Activity:1e+007;
 **SumA:4e+007;
 
 $$Drum9
-Detection:STGS4EB;
-Density:2;
+Detection:SGS;
+Density:0.5;
 ##Source1
 Radius:20;
 Angle:0;
@@ -260,8 +260,8 @@ Activity:1e+007;
 **SumA:4e+007;
 
 $$Drum10
-Detection:STGS4EB;
-Density:2;
+Detection:SGS;
+Density:0.5;
 ##Source1
 Radius:22.5;
 Angle:0;
@@ -289,8 +289,8 @@ Activity:1e+007;
 **SumA:4e+007;
 
 $$Drum11
-Detection:STGS4EB;
-Density:2;
+Detection:SGS;
+Density:0.5;
 ##Source1
 Radius:25;
 Angle:0;
@@ -318,8 +318,8 @@ Activity:1e+007;
 **SumA:4e+007;
 
 $$Drum12
-Detection:STGS4EB;
-Density:2;
+Detection:SGS;
+Density:0.5;
 ##Source1
 Radius:27.5;
 Angle:0;
@@ -347,8 +347,8 @@ Activity:1e+007;
 **SumA:4e+007;
 
 $$Drum13
-Detection:STGS4EB;
-Density:2;
+Detection:SGS;
+Density:0.5;
 ##Source1
 Radius:30;
 Angle:0;
@@ -376,8 +376,8 @@ Activity:1e+007;
 **SumA:4e+007;
 
 $$Drum14
-Detection:STGS4EB;
-Density:2;
+Detection:SGS;
+Density:0.5;
 ##Source1
 Radius:32.5;
 Angle:0;
