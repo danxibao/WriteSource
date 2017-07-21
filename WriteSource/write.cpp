@@ -7,7 +7,7 @@
 using namespace std;
 
 double RandomData[10000][3];
-double ROfWD,HOfWD;
+double ROfWD=35,HOfWD=105;
 //	int seed[50]={25,13,185,3,1972,554,621,32,19,785,453,1563,951,1,23,55,69,1951,463,251,764,444,6,17,91,2645,333,1789,675,385,18,562,2245,3621,741,621,95,273,82,43,351,26,54,61,375,951,4421,3562,158,491};
 //	static double seeddata[3];
 int main()
@@ -40,7 +40,7 @@ int main()
 	HOfWD=105;//废物桶高度，cm
 
 	//发射源是否随机分布
-	bool IsRandom=true;
+	bool IsRandom=false;
 	//1，密度;
 	density=0.5;//g/cm3 *****
 	//2，测量方式
